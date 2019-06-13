@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.aktywnoscglowna">
+
+    <application
+        android:name=".MojaAplikacja"
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.AppCompat.DayNight">
+        <activity
+            android:name=".AddBasicEntryActivity"
+            android:theme="@style/Theme.AppCompat.Dialog.Alert"
+            android:label="">
+        </activity>
+        <activity
+            android:name=".AddFullEntryActivity"
+            android:theme="@style/Theme.AppCompat.Dialog.Alert"
+            android:label="">
+        </activity>
+        <activity
+            android:name=".AddDescriptionActivity"
+            android:theme="@style/Theme.AppCompat.Dialog.Alert"
+            android:label="">
+        </activity>
+        <activity android:name=".AktywnoscOpis" />
+        <activity android:name=".AktywnoscGlowna">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

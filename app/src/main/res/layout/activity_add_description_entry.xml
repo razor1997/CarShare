@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+    <LinearLayout android:orientation="vertical" android:gravity="center" android:layout_height="wrap_content" android:layout_width="match_parent" xmlns:tools="http://schemas.android.com/tools" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <TextView android:layout_height="wrap_content" android:layout_width="wrap_content" android:text="Opis" android:id="@+id/textView4"/>
+
+    <EditText android:layout_height="wrap_content" android:layout_width="wrap_content" android:id="@+id/newDescription" android:inputType="textPersonName" android:ems="10"/>
+
+
+    <LinearLayout android:orientation="horizontal" android:layout_height="match_parent" android:layout_width="wrap_content">
+
+    <Button android:layout_height="wrap_content" android:layout_width="wrap_content" android:text="Dodaj" android:id="@+id/adden"/>
+
+    <Button android:layout_height="wrap_content" android:layout_width="wrap_content" android:text="Anuluj" android:id="@+id/cancel"/>
+
+</LinearLayout>
+
+</LinearLayout>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Wypożyczalnia luksusowych aut FROCAR</string>
+    <string name="full_entry">Dodaj Wszystko</string>
+    <string name="basic_entry">Dodaj trochę</string>
+    <string name="description_entry">Dodaj opis</string>
+    <string name="add_to_db">Dodaj</string>
+    <string name="cancel">Anuluj</string>
+</resources>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+    <array name="pictures">
+
+        <item>@drawable/czesc1</item>
+        <item>@drawable/czesc2</item>
+        <item>@drawable/cls63</item>
+        <item>@drawable/czesc4</item>
+        <item>@drawable/czesc5</item>
+        <item>@drawable/czesc6</item>
+        <item>@drawable/czesc7</item>
+        <item>@drawable/czesc8</item>
+        <item>@drawable/czesc9</item>
+        <item>@drawable/czesc10</item>
+        <item>@drawable/czesc11</item>
+
+    </array>
+    <string-array name="names">
+
+        <item> "Mercedes AMG"</item>
+        <item> "Mercedes G500"</item>
+        <item> "Mercedes CLS63 AMG"</item>
+        <item> "Mercedes G350"</item>
+        <item> "Nissan GTR"</item>
+        <item> "BMW M3"</item>
+        <item> "Ford Mustang"</item>
+        <item> "Audi RS5"</item>
+        <item> "Mercedes S500"</item>
+        <item> "Honda Civic Type R"</item>
+        <item> "Toyota Supra"</item>
+
+    </string-array>
+
+    <string-array name="descriptions">
+        <item>"Mercedes AMG 6.3 1000 zł doba, 5000 tydzień"</item>
+        <item>"Mercedes AMG G500 1000 zł doba, 5000 tydzień"</item>
+        <item>"Mercedes AMG CLS 6.3 1000 zł doba, 5000 tydzień"</item>
+        <item>"Mercedes G350 1000 zł doba, 5000 tydzień"</item>
+        <item>"Nissan GTR  1000 zł doba, 20000 tydzień"</item>
+        <item>"BMW M3  1000 zł doba, 5000 tydzień"</item>
+        <item>"Ford Mustang 5.0 1000 zł doba, 5000 tydzień"</item>
+        <item>"Audi RS5 1000 zł doba, 5000 tydzień"</item>
+        <item>"Mercedes S500 1000 zł doba, 5000 tydzień"</item>
+        <item>"Honda Civic Type R 1000 zł doba, 5000 tydzień"</item>
+        <item>"Toyota Supra, 5000 tydzień"</item>
+    </string-array>
+
+</resources>
